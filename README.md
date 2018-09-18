@@ -1,4 +1,4 @@
-#Command Line Example
+# Command Line Example
 
 This small applications is a sample command line utility. Where all the parameters are read using JCommander
 
